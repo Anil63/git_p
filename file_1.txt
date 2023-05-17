@@ -1,6 +1,8 @@
 done all tasks in the  
 jidjigdf
 
+test gdd
+
 We will know when students graduate either by month and year, so twice a year, at the end of those months we will need to update their status from student to alumni. 
 We can send students an email informing them that they will no longer be able to log in with SSO, and will need to use their email address and create a new password. In the email we include a link that takes them to a page to set their password, where their email address can be already populated. 
 This would not create a new user, but rather update that user's login. 
